@@ -1,0 +1,4 @@
+
+nayel ali English 90 85 75 88
+taha adnan History 80 70 85
+fahad adnan Math 80 70 85
